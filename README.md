@@ -15,7 +15,7 @@ https://ncorlabswg.slack.com/archives/C08T9NQMCKE
 ## Repository Content
 This repository contains the following content: 
 * **documentation** - Here you will find the BFO: Case Studies paper, a paper decribing the Occupation Ontology which describes ontological representations of occupation codes, and slides from my tutorial. 
-* **exercises** - This repository contains datasets and solutions for exercises, as well as a pptx with guidance for the exercises. Additinally, you will find the current version of Basic Formal Ontology named "bfo-core.ttl"
+* **exercises** - This repository contains datasets and solutions for exercises, as well as a pptx with guidance for the exercises. Additinally, you will find the current version of Basic Formal Ontology named "bfo-core-c-fors.ttl".
     * **datasets** - Here you will find the various datasets used in the tutorial exercises. 
     * **solutions** - Here you will (eventually) find my preferred solutions to the exercises. 
 * **submissions** - In your forked repository, you will upload your work here. Following the naming convention: [lastname]-[firstname]-Case-#-Diagram and [lastname]-[firstname]-Case-#-Justification. 
