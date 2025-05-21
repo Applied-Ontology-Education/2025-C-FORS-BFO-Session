@@ -119,6 +119,13 @@ skos:scopeNote rdf:type owl:AnnotationProperty .
                                              skos:definition "(Elucidation) realizes is a relation between a process b and realizable entity c such that c inheres in some d & for all t, if b has participant d then c exists & the type instantiated by b is correlated with the type instantiated by c"@en ;
                                              skos:example "A balding process realizes a disposition to go bald; a studying process realizes a student role; a process of pumping blood realizes the pumping function of a heart"@en .
 
+###  http://purl.obolibrary.org/obo/DEMO_0000001
+<http://purl.obolibrary.org/obo/DEMO_0000001> rdf:type owl:ObjectProperty ;
+                                             rdfs:domain <http://purl.obolibrary.org/obo/BFO_0000002> ;
+                                             rdfs:range <http://purl.obolibrary.org/obo/BFO_0000001> ;
+                                             rdfs:label "is about"@en ;
+                                             skos:definition "A primitive relation that relates an information artifact to an entity."@en .
+
 ###  http://purl.obolibrary.org/obo/BFO_0000056
 <http://purl.obolibrary.org/obo/BFO_0000056> rdf:type owl:ObjectProperty ;
                                              owl:inverseOf <http://purl.obolibrary.org/obo/BFO_0000057> ;
